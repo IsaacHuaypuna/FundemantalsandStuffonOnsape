@@ -15,7 +15,10 @@ Then I will right all my work in this "journal" which is AKA Github. The first n
 
 ## Base
 The 1st part of this project is making the base. The base is well, the base and is probably where most of the parts will be assembled to.
-This was due on Sep 25th. Its Oct 6th.I would add a picture but I still struggle with that. So no picture until I find out how.
+This was due on Sep 25th. Its Oct 6th.I would add a picture but I still struggle with that. So no picture until I find out how. But the asignment it self was pretty easy. NGL when I first did it today I was like "I'm on the verg of failing for not doing easy Sh*t like this?" But I also just realized I can make italics with* so thats cool I guess. But the assignment is litarly draw a rectangle thats 200mm in width and 120mm in height. Then make it 8mm thick and just add six holes. 3 located on the top of the rectangle at the left, right, and middle part. The other 3 are on the same part but on the bottom side.
+
+## link
+https://cvilleschools.onshape.com/documents/557b87685b5e873bb0005c30/w/29610f4feba29ddc31f88b40/e/97c346a9d832ebcf650da3c9
 
 ## Picture
 No pic :(
