@@ -24,3 +24,13 @@ https://cvilleschools.onshape.com/documents/557b87685b5e873bb0005c30/w/29610f4fe
 No pic :(
 
 ## Mount
+
+
+## Dowel Pins
+Today on Oct 7th I submitted an assignment called Dorthy's Dowel Pins. On this assignment I followed instuctions from a video that was recorded by one of the Engineering teachers. A step by step guide on how to make the pins and a useful trick on Onshape. We learned how to make configurations for the pin and how to change it with a press of a button. We managed to change the height and length of the pin by just pressing a button.
+
+## Link
+https://cvilleschools.onshape.com/documents/ef7d7d91f640a076a8bb6d3a/w/7d884f416c8b69ba84435252/e/7c91962240575e52cacf09b2?configuration=List_0IwawpRxTqy3A1%3DDefault%3BList_4LBFFfN47Uooq0%3DDefault%3BList_coP0xwJLlKheKY%3D_2
+
+## Picture.
+No pic yet:(
