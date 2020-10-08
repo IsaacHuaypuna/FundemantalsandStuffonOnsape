@@ -33,7 +33,31 @@ https://cvilleschools.onshape.com/documents/d2895a2bc0962d676758ff1c/w/6014474fc
 No pic yet:(
 
 ## Fork
+The third part to this project is the fork. The fork is well a fork. I don't know what its for right now but eventually I will.
 
+## Link
+https://cvilleschools.onshape.com/documents/94113d22b00e8c5529701d76/w/e2dec3bd03a14a7f6ac66a41/e/9c1df5b4d7279b0918425876
+
+## Pictures
+No pics yet :(
+
+## Tire
+The 4th part of this project will be the tire. The tire is of course a tire. The tire in this assignment was made by a trapazoid with some dimentions and with a revolve instead of a extrudtion. 
+
+## Link
+https://cvilleschools.onshape.com/documents/4d4c1e380e3baacbd46c45ea/w/5b5cee55b474407c7c1419d2/e/8588e7f4c7b8bb990d8ebcc9
+
+## Picture
+No pic yet :(
+
+## Wheel
+The wheel is the 5th part of my late assignments that I just finished. The wheel goes inside the tire and is made in the tire as well In Onshape.
+
+## Link
+https://cvilleschools.onshape.com/documents/4d4c1e380e3baacbd46c45ea/w/5b5cee55b474407c7c1419d2/e/8588e7f4c7b8bb990d8ebcc9
+
+## Picture
+No pic yet :(
 
 ## Dowel Pins
 Today on Oct 7th I submitted an assignment called Dorthy's Dowel Pins. On this assignment I followed instuctions from a video that was recorded by one of the Engineering teachers. A step by step guide on how to make the pins and a useful trick on Onshape. We learned how to make configurations for the pin and how to change it with a press of a button. We managed to change the height and length of the pin by just pressing a button.
