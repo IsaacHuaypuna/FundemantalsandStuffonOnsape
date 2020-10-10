@@ -60,10 +60,13 @@ https://cvilleschools.onshape.com/documents/4d4c1e380e3baacbd46c45ea/w/5b5cee55b
 No pic yet :(
 
 ## Dowel Pins
-Today on Oct 7th I submitted an assignment called Dorthy's Dowel Pins. On this assignment I followed instuctions from a video that was recorded by one of the Engineering teachers. A step by step guide on how to make the pins and a useful trick on Onshape. We learned how to make configurations for the pin and how to change it with a press of a button. We managed to change the height and length of the pin by just pressing a button.
+Today on Oct 7th I submitted an assignment called Dorthy's Dowel Pins. On this assignment I followed instuctions from a video that was recorded by one of the Engineering teachers. A step by step guide on how to make the pins and a useful trick on Onshape. We learned how to make configurations for the pin and how to change it with a press of a button. We managed to change the height and length of the pin by just pressing a button. Also in my last class My teacher told us to make a frame. That's still a work in progres.
 
 ## Link
 https://cvilleschools.onshape.com/documents/ef7d7d91f640a076a8bb6d3a/w/7d884f416c8b69ba84435252/e/7c91962240575e52cacf09b2?configuration=List_0IwawpRxTqy3A1%3DDefault%3BList_4LBFFfN47Uooq0%3DDefault%3BList_coP0xwJLlKheKY%3D_2
 
 ## Picture.
 No pic yet:(
+
+## Engineering Notebook for Oct 2nd but on Oct 9th
+Its Oct 9th a week since Oct 2nd but just before the deadline for no return. So what did I learn? Well I learned that these Onshape assignments are ez clapz even though there late but thats because I have a bad habit on not turning things in on time and then I just give up. But now I'm trying to fix my Engineering class. The Notebook will be the things I will lookout for. I learned not to loose hope so early. I will try my best to turn things in on time in the future. I will try to turn in the Engineering journal for Oct 9th somewhere this coming week. That should include my progress with the Dowel pins and other assignments we do.
