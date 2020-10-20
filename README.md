@@ -70,3 +70,17 @@ No pic yet:(
 
 ## Engineering Notebook for Oct 2nd but on Oct 9th
 Its Oct 9th a week since Oct 2nd but just before the deadline for no return. So what did I learn? Well I learned that these Onshape assignments are ez clapz even though there late but thats because I have a bad habit on not turning things in on time and then I just give up. But now I'm trying to fix my Engineering class. The Notebook will be the things I will lookout for. I learned not to loose hope so early. I will try my best to turn things in on time in the future. I will try to turn in the Engineering journal for Oct 9th somewhere this coming week. That should include my progress with the Dowel pins and other assignments we do. Also I should have learned on how to put pictuers in my journal.
+
+## Axle,Collar,Bearing Submitted on Oct 20th
+Today I made the Bearing, Axle, and Collar for my Onshape project. These are the last things to make for Onshape currently and after this I will do the Onshape Fundamentals: Assemblies to fully complete my Onshape project and to move on to CircuitPython.
+
+## Links
+Axle and Collar
+https://cvilleschools.onshape.com/documents/3afde4025391dcc7e159139c/w/d1896b78768cc73328c6727c/e/7e061b1e50589d539b40bb67
+
+Bearing on Wheel and Big Bearing
+https://cvilleschools.onshape.com/documents/4d4c1e380e3baacbd46c45ea/w/5b5cee55b474407c7c1419d2/e/8588e7f4c7b8bb990d8ebcc9
+https://cvilleschools.onshape.com/documents/8e6e606743689b4431bf20ee/w/22023fc764c2dcf603c19213/e/7f17794858a34ad5a998679d
+
+## Picture
+
