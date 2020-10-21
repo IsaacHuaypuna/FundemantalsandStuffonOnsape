@@ -19,7 +19,7 @@ This was due on Sep 25th. Its Oct 6th.I would add a picture but I still struggle
 https://cvilleschools.onshape.com/documents/557b87685b5e873bb0005c30/w/29610f4feba29ddc31f88b40/e/97c346a9d832ebcf650da3c9
 
 ## Picture
-No pic :(
+![alt text](https://raw.githubusercontent.com/IsaacHuaypuna/OnshapeandEngineeringnotebook/master/Images/Screenshot%202020-10-06%20at%208.56.09%20PM.png)
 
 ## Mount turned in on Oct 7th but resubmitted on Oct 9th
 Mount is the second part of this porject on Onshape and I don't know what it's for. The assignment was easy. I just followed the video that was recorded and I made an 8 inch thick,120 mm I think square with 1 hole that is 25 mm in diameter that is located on the center point and 4 other smaller circles that are located on each end of the square.
@@ -28,7 +28,7 @@ Mount is the second part of this porject on Onshape and I don't know what it's f
 https://cvilleschools.onshape.com/documents/d2895a2bc0962d676758ff1c/w/6014474fcb7dc9c7acd8bf71/e/ae2c0abce1d58d71a15cf8be
 
 ## Picture
-No pic yet:(
+![alt text](https://raw.githubusercontent.com/IsaacHuaypuna/OnshapeandEngineeringnotebook/master/Images/Screenshot%202020-10-07%20at%2010.44.59%20AM.png)
 
 ## Fork turned in on Oct 8th but resubmitted on Oct 9th
 The third part to this project is the fork. The fork is well a fork. I don't know what its for right now but eventually I will.
@@ -37,7 +37,7 @@ The third part to this project is the fork. The fork is well a fork. I don't kno
 https://cvilleschools.onshape.com/documents/94113d22b00e8c5529701d76/w/e2dec3bd03a14a7f6ac66a41/e/9c1df5b4d7279b0918425876
 
 ## Pictures
-No pics yet :(
+![alt text](https://raw.githubusercontent.com/IsaacHuaypuna/OnshapeandEngineeringnotebook/master/Images/Screenshot%202020-10-08%20at%205.29.38%20PM.png)
 
 ## Tire turned in on Oct 8th but resubmitted on Oct 9th
 The 4th part of this project will be the tire. The tire is of course a tire. The tire in this assignment was made by a trapazoid with some dimentions and with a revolve instead of a extrudtion. 
@@ -46,7 +46,7 @@ The 4th part of this project will be the tire. The tire is of course a tire. The
 https://cvilleschools.onshape.com/documents/4d4c1e380e3baacbd46c45ea/w/5b5cee55b474407c7c1419d2/e/8588e7f4c7b8bb990d8ebcc9
 
 ## Picture
-No pic yet :(
+![alt text](https://raw.githubusercontent.com/IsaacHuaypuna/OnshapeandEngineeringnotebook/master/Images/Screenshot%202020-10-08%20at%205.56.12%20PM.png)
 
 ## Wheel turned in on Oct 8th but resubmitted on Oct 9th
 The wheel is the 5th part of my late assignments that I just finished. The wheel goes inside the tire and is made in the tire as well In Onshape.
@@ -55,7 +55,7 @@ The wheel is the 5th part of my late assignments that I just finished. The wheel
 https://cvilleschools.onshape.com/documents/4d4c1e380e3baacbd46c45ea/w/5b5cee55b474407c7c1419d2/e/8588e7f4c7b8bb990d8ebcc9
 
 ## Picture
-No pic yet :(
+![alt text](https://raw.githubusercontent.com/IsaacHuaypuna/OnshapeandEngineeringnotebook/master/Images/Screenshot%202020-10-08%20at%206.34.38%20PM.png)
 
 ## Dowel Pins Turned in on Oct 7th but I didn't realize we had to make a frame as well so its like half way done.
 Today on Oct 7th I submitted an assignment called Dorthy's Dowel Pins. On this assignment I followed instuctions from a video that was recorded by one of the Engineering teachers. A step by step guide on how to make the pins and a useful trick on Onshape. We learned how to make configurations for the pin and how to change it with a press of a button. We managed to change the height and length of the pin by just pressing a button. Also in my last class My teacher told us to make a frame. That's still a work in progres.
@@ -64,7 +64,7 @@ Today on Oct 7th I submitted an assignment called Dorthy's Dowel Pins. On this a
 https://cvilleschools.onshape.com/documents/ef7d7d91f640a076a8bb6d3a/w/7d884f416c8b69ba84435252/e/7c91962240575e52cacf09b2?configuration=List_0IwawpRxTqy3A1%3DDefault%3BList_4LBFFfN47Uooq0%3DDefault%3BList_coP0xwJLlKheKY%3D_2
 
 ## Picture.
-No pic yet:(
+![alt text](https://raw.githubusercontent.com/IsaacHuaypuna/OnshapeandEngineeringnotebook/master/Images/Screenshot%202020-10-07%20at%2010.21.42%20AM.png)
 
 ## Engineering Notebook for Oct 2nd but on Oct 9th
 Its Oct 9th a week since Oct 2nd but just before the deadline for no return. So what did I learn? Well I learned that these Onshape assignments are ez clapz even though there late but thats because I have a bad habit on not turning things in on time and then I just give up. But now I'm trying to fix my Engineering class. The Notebook will be the things I will lookout for. I learned not to loose hope so early. I will try my best to turn things in on time in the future. I will try to turn in the Engineering journal for Oct 9th somewhere this coming week. That should include my progress with the Dowel pins and other assignments we do. Also I should have learned on how to put pictuers in my journal.
@@ -81,4 +81,9 @@ https://cvilleschools.onshape.com/documents/4d4c1e380e3baacbd46c45ea/w/5b5cee55b
 https://cvilleschools.onshape.com/documents/8e6e606743689b4431bf20ee/w/22023fc764c2dcf603c19213/e/7f17794858a34ad5a998679d
 
 ## Picture
-
+Big Bearing
+![alt text](https://raw.githubusercontent.com/IsaacHuaypuna/OnshapeandEngineeringnotebook/master/Images/Screenshot%202020-10-20%20at%207.19.36%20PM.png)
+Bearing on Wheel
+![alt text](https://raw.githubusercontent.com/IsaacHuaypuna/OnshapeandEngineeringnotebook/master/Images/Screenshot%202020-10-20%20at%207.19.52%20PM.png)
+Axle and collar
+![alt text](https://raw.githubusercontent.com/IsaacHuaypuna/OnshapeandEngineeringnotebook/master/Images/Screenshot%202020-10-20%20at%207.20.06%20PM.png)
