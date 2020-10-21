@@ -2,9 +2,7 @@
 Today is September 24,2020. Its almost 5 pm and i'm just starting to do this.
 ## Image test
 
-![ink](images/ink.png)
-
-<img src="images/ink.png.png" alt="ink" width="128" height="128"
+![alt text](https://raw.githubusercontent.com/IsaacHuaypuna/OnshapeandEngineeringnotebook/master/Images/ink.png)
 
 # Ok look. Ignore this up here. I'am currently having a mental breakdown cause of Github and I belive that I'm going to fail cause I'm not doing Github. But now I will actually try to fix all the assinments I'm very late on doing and I will work more on Github to try to save my grade from being an F. I still need help getting pictures set up tho.
 
