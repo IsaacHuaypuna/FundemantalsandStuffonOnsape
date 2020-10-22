@@ -90,3 +90,12 @@ Axle and collar
 
 ## Engineering notebook for Oct 16th but submitted Oct 21st
 This week I finally added pictures to my notebook and I finished The Axle,collar, and Bearing on Onshape. I added them to my notebook with a link to all of them. I'm finally catching up to what were doing now. On Friday I will put the next Engineering Notebook on time. I hope. Also I will try to do the CircuitPython assigment and put it on my notebook. This week I learned how to put pictures on my notebook.
+
+## Sub Assembly
+
+
+## Link
+
+
+## Picture
+
