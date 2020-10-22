@@ -92,10 +92,10 @@ Axle and collar
 This week I finally added pictures to my notebook and I finished The Axle,collar, and Bearing on Onshape. I added them to my notebook with a link to all of them. I'm finally catching up to what were doing now. On Friday I will put the next Engineering Notebook on time. I hope. Also I will try to do the CircuitPython assigment and put it on my notebook. This week I learned how to put pictures on my notebook.
 
 ## Sub Assembly
-
+This assignmnet is the first step to a full assembly. But we had to have a little test on the mateing. So we assembled our tire,wheel,bearings, and axles. This would be the bottem part of the full assembly which will be done shortly.
 
 ## Link
-
+https://cvilleschools.onshape.com/documents/f8e089f65c4bf7460eff0ec7/w/39e703d599fea90d10a9ad61/e/ed5d59da08f297947d8046a0
 
 ## Picture
-
+![alt text](https://raw.githubusercontent.com/IsaacHuaypuna/OnshapeandEngineeringnotebook/master/Images/Screenshot%202020-10-22%20at%207.04.13%20PM.png)
