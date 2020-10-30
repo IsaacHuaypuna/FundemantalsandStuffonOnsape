@@ -107,4 +107,13 @@ The final thing I needed to do to fully finish my project and my experince with 
 https://cvilleschools.onshape.com/documents/f733c432c7516bd792de5bd4/w/0492b9ff15a5656cce7ab524/e/a62cc6cb545f940ea9e803e4
 
 ## picture
+![alt text](https://raw.githubusercontent.com/IsaacHuaypuna/OnshapeandEngineeringnotebook/master/Images/Screenshot%202020-10-30%20at%204.14.50%20PM.png)
+
+## The Collab Challange
+The Collab Challange was a challange on Onshape that was pretty simple. there would be two or three people and they each make a part of some type of thing. and with a bit of teamwork they have to put the parts they made together to make the thing they were assigned for. I got to make the clear cylinder that was at the center of the item. It was simple. draw a circle then ask my teamates whats the circumfrence and how high will the item be and boom with a bit of changing the transparity of the color I have a clear cylinder. After that we put our pices together to make the item.
+
+## Link
+There no link sadly I can't share it.
+
+## Picture
 
