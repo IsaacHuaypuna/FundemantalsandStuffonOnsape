@@ -99,3 +99,12 @@ https://cvilleschools.onshape.com/documents/f8e089f65c4bf7460eff0ec7/w/39e703d59
 
 ## Picture
 ![alt text](https://raw.githubusercontent.com/IsaacHuaypuna/OnshapeandEngineeringnotebook/master/Images/Screenshot%202020-10-22%20at%207.04.13%20PM.png)
+
+## Caster Assembly
+The final thing I needed to do to fully finish my project and my experince with Onshape. Assembling all my parts and putting them together with mates. Putting together the base, wheel, bearings, nuts, bolts, and other parts to fully assemble it.
+
+## Link
+https://cvilleschools.onshape.com/documents/f733c432c7516bd792de5bd4/w/0492b9ff15a5656cce7ab524/e/a62cc6cb545f940ea9e803e4
+
+## picture
+
